@@ -1,0 +1,31 @@
+<AssetPackage Name="fr4b3r1x-siegerland-landmarks" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Siegerland Landmarks</Title>
+		<Manufacturer>fr4b3r1x</Manufacturer>
+		<Creator>fr4b3r1x</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\fr4b3r1x-siegerland-landmarks\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\fr4b3r1x-siegerland-landmarks</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="siegerland-landmarks">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\data</AssetDir>
+			<OutputDir>scenery</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

@@ -1,0 +1,8 @@
+<Project Version="2" Name="Siegerland-Landmarks" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\fr4b3r1x-siegerland-landmarks.xml</Package>
+	</Packages>
+</Project>
+

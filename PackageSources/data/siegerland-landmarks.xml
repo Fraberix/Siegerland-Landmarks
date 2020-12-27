@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: PowerTower01-->
+	<SceneryObject lat="50.89603645810655" lon="8.08704322537113" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{044645A2-EEE0-4196-B9E7-2AA2D0052D01}" scale="1.000000"/>
+	</SceneryObject>
+</FSData>
+
