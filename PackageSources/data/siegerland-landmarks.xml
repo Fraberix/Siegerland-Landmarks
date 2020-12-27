@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
-	<!--SceneryObject name: PowerTower01-->
-	<SceneryObject lat="50.89603645810655" lon="8.08704322537113" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{044645A2-EEE0-4196-B9E7-2AA2D0052D01}" scale="1.000000"/>
+	<SceneryObject lat="50.89597044871790" lon="8.08715246074936" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="2.000000"/>
 	</SceneryObject>
+	<ExclusionRectangle latitudeMinimum="50.94356142479391" latitudeMaximum="50.94443967129304" longitudeMinimum="8.21215596069352" longitudeMaximum="8.21354746127794" excludeAllObjects="TRUE"/>
 </FSData>
 
