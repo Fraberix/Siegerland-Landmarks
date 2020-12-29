@@ -1,7 +1,13 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
-	<SceneryObject lat="50.89597044822810" lon="8.08715246075194" alt="0.00000000000000" pitch="0.001544" bank="-0.002807" heading="-90.545728" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="50.89597044804160" lon="8.08715246075457" alt="0.00000000000000" pitch="0.002787" bank="-0.003039" heading="2.423460" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windmill" scale="2.000000"/>
 	</SceneryObject>
+	<SceneryObject lat="50.94496100839124" lon="8.19988344049686" alt="0.00000000000000" pitch="0.000068" bank="-0.000068" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="25.000000"/>
+	</SceneryObject>
+	<Rectangle width="75.000000" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="50.94436602608686" longitude="8.21273691111327" altitude="685.27844107802957" latitude2="50.94369192962718" longitude2="8.21273691098607" altitude2="685.27806393895298"/>
+	<ExclusionRectangle latitudeMinimum="50.87426216102529" latitudeMaximum="50.87426216102534" longitudeMinimum="8.06689133764426" longitudeMaximum="8.06689133764432" excludeAllObjects="TRUE"/>
+	<ExclusionRectangle latitudeMinimum="50.94368726929405" latitudeMaximum="50.94437908426922" longitudeMinimum="8.21228563946348" longitudeMaximum="8.21334552493625" excludeAllObjects="TRUE"/>
 </FSData>
 
